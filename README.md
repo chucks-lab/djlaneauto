@@ -1,9 +1,7 @@
 # Dylan Lane · build · teach · hand off
 
 Technical trainer and applied-AI builder in Austin, TX.  
-I use Claude to turn domain expertise into tools and curricula teams actually adopt.
-
-**Open to:** Claude Corps Fellowship · workforce development & education host orgs · applied-AI roles where teaching and handoff matter.
+I use AI to turn domain expertise into tools and curricula teams actually adopt.
 
 ## Shipped with Claude
 
@@ -19,11 +17,7 @@ I use Claude to turn domain expertise into tools and curricula teams actually ad
 - **Scope** real problems with stakeholders who have constraints
 - **Build** with Claude — agents, automations, training systems, eval harnesses
 - **Enable** mixed technical / non-technical rooms; turn 3–4 colleagues into the people others ask
-- **Hand off** — runbooks, certification exams, curricula designed to survive without me
-
-## Professional core
-
-Master automotive technician & technical trainer — **10+ years** across the full **EV/ICE stack** (not just electrical): diagnostics, HV, drivability, data-bus. Tesla field service & manufacturing; power transmission training; working knowledge of factory automation.
+- **Hand off** — runbooks, tools, systems, certification exams, curricula designed to survive without me
 
 ## Community impact highlight
 
@@ -39,6 +33,6 @@ Ran **Tesla START** in Waco, TX — interviewed candidates, delivered 16-week ce
 - **LinkedIn** → [dylan-lane](https://www.linkedin.com/in/dylan-lane-2063391b9)
 - **Email** → djlaneauto@icloud.com
 
-## Stacks
+## Exposure to
 
-`Claude Code` · `MCP` · `Cursor` · `Python` · `Node.js` · `Unity/Sentis` · `LangGraph` · `Azure` · `GitHub Actions`
+`Claude` · `MCP` · `Cursor` · `Python` · `Node.js` · `Unity/Sentis` · `LangGraph` · `Azure` · `GitHub Actions` · `Grok`
